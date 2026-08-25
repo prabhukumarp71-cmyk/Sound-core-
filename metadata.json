@@ -1,0 +1,6 @@
+{
+  "name": "Soundcore Pro EQ",
+  "description": "Premium equalizer application designed for Soundcore Bluetooth headphones, featuring bass enhancement, parametric EQ, and high-quality audio processing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
